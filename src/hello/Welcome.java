@@ -11,7 +11,7 @@ public class Welcome {
      String a=sc.next();
      System.out.println("your string is : "+a);
      sc.close();
-     
+     System.out.println("hello");
 	}
  
  
